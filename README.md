@@ -142,7 +142,8 @@ def power(request):
 
 # HOMEPAGE:
 
-![Screenshot 2025-04-25 083055](https://github.com/user-attachments/assets/9bb50d5c-4559-44ee-bd48-775455971700)
+![image](https://github.com/user-attachments/assets/b80b0d1a-84cb-4e7e-99af-992d1faf29a0)
+
 
 # RESULT:
 The program for performing server side processing is completed successfully.
